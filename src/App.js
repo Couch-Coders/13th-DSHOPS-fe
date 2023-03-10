@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>수정2</div>
+      <div>추가</div>
     </div>
   );
 }
